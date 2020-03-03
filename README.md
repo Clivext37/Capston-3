@@ -1,1 +1,2 @@
-"# Capston-3" 
+"# Capstone-3" 
+Well done!! This is the final Capstone Project for this level! Congratulations for making it this far! This Capstone is a milestone in your learning so far. Thisproject will consolidate the knowledge that you've learnt across various tasks. In this                         project, you will be extending the functionality of the previous Capstone project. Becreative—you’llbetaskedwithasetofcriteriatomeetbuttherestisuptoyou! Remember, it is worth puttingsomeextratimeandeffortintothisproject—itcan  become part of your developer portfolio.                               
